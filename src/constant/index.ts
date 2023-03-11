@@ -1,0 +1,1 @@
+export const SYSTEM_LOGO = "https://ts1.cn.mm.bing.net/th/id/R-C.433001132bf6c992b333523f50913780?rik=NwlN7bnjeUPK9w&riu=http%3a%2f%2fpic.ntimg.cn%2f20130716%2f2531170_115858635000_2.jpg&ehk=D2Qum2jseWYSHq00zY9asxKNzV1MeqfA1csF8YtIEuY%3d&risl=&pid=ImgRaw&r=0";
