@@ -13,7 +13,7 @@ import { history } from 'umi';
 const request = extend({
   credentials: 'include', // 默认请求是否带上cookie
   //根据环境不同选择不同的请求地址
-  prefix: process.env.NODE_ENV === 'production' ? 'http://skyuc-backend.twintea.top' : undefined,
+  prefix: process.env.NODE_ENV === 'production' ? '这里写你请求后端的地址' : undefined,
   // requestType: 'form',
 });
 
