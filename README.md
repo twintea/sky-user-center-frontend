@@ -6,7 +6,7 @@
 
 >  本项目前后端均使用Docker容器部署
 
-**项目在线访问链接：** http://skyuc.twintea.top
+**项目在线访问链接：** [Sky-User-Center](http://skyuc.twintea.top)
 
 
 
@@ -80,7 +80,7 @@
 ### 部署
 
 详见
-[项目部署和上线](https://blog.twintea.top/posts/8036cfa7.html)
+[项目部署和上线](https://blog.twintea.top/posts/6e6359df.html)
 
 
 - 单机部署
@@ -112,7 +112,7 @@
 
 ### 开发笔记🤔
 
-[Sky-User-Center开发笔记](https://blog.twintea.top/2023/03/08/%E7%94%A8%E6%88%B7%E4%B8%AD%E5%BF%83%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/)
+[Sky-User-Center开发笔记](https://blog.twintea.top/posts/8036cfa7.html)
 
 
 
